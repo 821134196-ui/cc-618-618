@@ -10,6 +10,9 @@ build/
 *.log
 .claude/
 .cc-workbench/
+*.db
+*.db-journal
+backend/src/main/resources/META-INF/resources/
 轨迹/
 录屏/
 视频/
